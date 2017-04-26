@@ -1,6 +1,6 @@
 # npmdoc-youtube-mp3
 
-#### api documentation for  [youtube-mp3 (v0.1.2)](https://github.com/MaxGfeller/youtube-mp3)  [![npm package](https://img.shields.io/npm/v/npmdoc-youtube-mp3.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-youtube-mp3) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-youtube-mp3.svg)](https://travis-ci.org/npmdoc/node-npmdoc-youtube-mp3)
+#### basic api documentation for  [youtube-mp3 (v0.1.2)](https://github.com/MaxGfeller/youtube-mp3)  [![npm package](https://img.shields.io/npm/v/npmdoc-youtube-mp3.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-youtube-mp3) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-youtube-mp3.svg)](https://travis-ci.org/npmdoc/node-npmdoc-youtube-mp3)
 
 #### Download Youtube videos as mp3 using http://youtube-mp3.org
 
@@ -61,7 +61,8 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "version": "0.1.2"
+    "version": "0.1.2",
+    "bin": {}
 }
 ```
 
